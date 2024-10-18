@@ -6,57 +6,57 @@ const caixaPrincipal =  document.querySelector(".caixa-principal");
 
  const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Julie está grávida de 39 semanas, certo dia enquanto estava arrumando o quarto do bebê sentiu uma dor intensa, preocupada decidiu tentar marcar uma consulta.  No entanto, ela se deparou com uma longa lista de espera para marcar uma consulta com o médico especialista que a acompanhava, o que ela deve fazer?",
         alternativas: [
             {
-                texto: "Alternativa 1",
+                texto: "Enfrentar a longa lista de espera para consultar como médico que a acompanhava.",
                 afirmacao: "afirmação"
             },
             {
                  
-            texto: "Alternativa 2",
+            texto: "Buscar outro especialista, realizando os exames necessários o mais rápido possível.",
             afirmacao: "afirmação"
              }
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Ao tenta marcar a consulta percebeu que o seu plano de saúde não cobria mais a consulta e nem os exames, porém ela não foi comunicada que seu convênio havia sido mudado. Qual a melhor atitude a se tomar?",
         alternativas: [
             {
-                texto: "Alternativa 1",
+                texto: "Pagar tudo particular e esquecer o ocorrido.",
                 afirmacao: "afirmação"
             },
             {
                  
-            texto: "Alternativa 2",
+            texto: "Pagar tudo particular e depois recorrer a empresa e ao convênio comunicando o ocorrido.",
             afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Julie foi a consulta, realizou os exames necessários e descobriu que estava tudo bem com o feto, que não havia riscos para se preocupar. Voltando para a casa, ficou em repouso como o doutor havia recomendado, no dia seguinte, ao se levanta da cama percebeu que sua bolsa tinha estourado, seu marido levou ela as pressas para o hospital. No hospital, foi informada que não havia nenhum leito disponível e o hospital mais próximo não aceitava o seu plano de saúde, somente particular e o próprio convênio. Diante desse cenário, o que Julie deve fazer?",
         alternativas: [
             {
-                texto: "Alternativa 1",
+                texto: "Esperar algum leito no hospital que ela aceita o seu convênio.",
                 afirmacao: "afirmação"
             },
             {
                  
-            texto: "Alternativa 2",
+            texto: "Ir para outro hospital e pagar tudo particular.",
             afirmacao: "afirmação"
             }
         ]
     },
     {
-        enunciado: "Pergunta 4",
+        enunciado: "No hospital, ela foi informada que não havia nenhum médico disponível para realizar seu parto,  o que deve ser feito?",
         alternativas: [
             {
-                texto: "Alternativa 1",
+                texto: "Deve-se esperar algum médico ficar disponível para realizar o eu parto.",
                 afirmacao: "afirmação"
             },
             {
                  
-            texto: "Alternativa 2",
+            texto: "Deve-se ligar para o médico que a acompanhou durante a sua gestação, esperando ele chegar no hospital para realizar o seu parto.",
             afirmacao: "afirmação"
             }
         ]
